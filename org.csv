@@ -1,5 +1,5 @@
 name,imageUrl,area,profileUrl,office,tags,isLoggedUser,positionName,id,parentId,size
-Mario Mario,https://raw.githubusercontent.com/NotARanger97/Sample_data/blob/main/icon.png,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Direttore Generale ,O-6066,,
+Mario Mario,https://raw.githubusercontent.com/NotARanger97/Sample_data/main/icon.png,Corporate,http://example.com/employee/profile,CTO office,"Ceo,tag1,manager,cto",false,Direttore Generale ,O-6066,,
 Luigi Mario,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/general.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,SS Compliance ,O-6067,O-6066,
  Marco Marconi,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,SO CISO ,O-6068,O-6066,
  Luca Luca,https://raw.githubusercontent.com/bumbeishvili/Assets/master/Projects/D3/Organization%20Chart/female.jpg,Corporate,http://example.com/employee/profile,CEO office,"Ceo,tag1, tag2",false,SC Università e Ricerca ,O-6069,O-6066,
